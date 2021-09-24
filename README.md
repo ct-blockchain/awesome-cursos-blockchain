@@ -4,7 +4,7 @@
 
 > Curadoria de cursos incríveis de blockchain
 
-Listamos cursos e vídeos para ensino de blockchain, categorizando de acordo com a [Ementa de Referência](./ementa.md).
+Listamos cursos e vídeos para ensino de blockchain.
 Esta não é apenas uma coletânea, mas sim uma lista filtrada e organizada com foco em aprendizagem.
 
 <details><summary>Clique para mais informações e sumário</summary>
@@ -62,7 +62,7 @@ Para gerar o índice, instale e execute o programa [doctoc](https://github.com/t
 
 ------
 
-## Vídeos por Tópico da Ementa
+## Vídeos por Tópico da [Ementa de Referência](./ementa.md)
 
 ### Visão histórica
 
