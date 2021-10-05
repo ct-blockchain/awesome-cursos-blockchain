@@ -24,8 +24,8 @@ Para gerar o índice, instale e execute o programa [doctoc](https://github.com/t
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Playlists Completas](#playlists-completas)
-- [Vídeos por Playlist](#v%C3%ADdeos-por-playlist)
+- [Cursos Completos em Playlists](#cursos-completos-em-playlists)
+- [Vídeos por Curso em Playlist](#v%C3%ADdeos-por-curso-em-playlist)
   - [Introdução ao Blockchain e Aplicações Descentralizadas](#introdu%C3%A7%C3%A3o-ao-blockchain-e-aplica%C3%A7%C3%B5es-descentralizadas)
 - [Vídeos por Tópico da Ementa de Referência](#v%C3%ADdeos-por-t%C3%B3pico-da-ementa-de-refer%C3%AAncia)
   - [Visão histórica](#vis%C3%A3o-hist%C3%B3rica)
@@ -45,6 +45,8 @@ Para gerar o índice, instale e execute o programa [doctoc](https://github.com/t
   - [Comitê Técnico em Blockchain (CT-Blockchain) da Rede Nacional de Ensino e Pesquisa (RNP)](#comit%C3%AA-t%C3%A9cnico-em-blockchain-ct-blockchain-da-rede-nacional-de-ensino-e-pesquisa-rnp)
 - [Apresentações em Eventos com Transmissão Aberta](#apresenta%C3%A7%C3%B5es-em-eventos-com-transmiss%C3%A3o-aberta)
   - [Instituto Federal do Rio de Janeiro - Campus Arraial do Cabo](#instituto-federal-do-rio-de-janeiro---campus-arraial-do-cabo)
+- [Livros](#livros)
+  - [Livros em Inglês](#livros-em-ingl%C3%AAs)
 - [Outros](#outros)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -53,13 +55,13 @@ Para gerar o índice, instale e execute o programa [doctoc](https://github.com/t
 
 ------
 
-## Playlists Completas
+## Cursos Completos em Playlists
 
 - [Introdução ao Blockchain e Aplicações Descentralizadas](https://www.youtube.com/playlist?list=PLijZucELEeonj-V_lLq_cKW0rjtPty1Yg) - Curso com mais de 20 vídeos do Prof. Diogo Silveira Mendonça, do CEFET/RJ, com foco especial na tecnologia Ethereum.
 
 ------
 
-## Vídeos por Playlist
+## Vídeos por Curso em Playlist
 
 ### Introdução ao Blockchain e Aplicações Descentralizadas
 
@@ -124,6 +126,14 @@ Para gerar o índice, instale e execute o programa [doctoc](https://github.com/t
 
 ### Instituto Federal do Rio de Janeiro - Campus Arraial do Cabo
 - [Blockchain e os Generais Bizantinos - 18/12/2020](https://www.youtube.com/watch?v=8C1uaQAAuQY) - Palestrante: Igor Machado Coelho (IC/UFF). Moderador: Marcos Guerine (IFRJ)
+
+------
+
+## Livros
+
+### Livros em Inglês
+
+- [Blockchain in Action (2020)](https://cse.buffalo.edu/faculty/bina/) - Autora: [Bina Ramamurthy](https://cse.buffalo.edu/faculty/bina/)
 
 ------
 
