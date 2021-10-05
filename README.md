@@ -48,6 +48,7 @@ Para gerar o índice, instale e execute o programa [doctoc](https://github.com/t
 - [Livros](#livros)
   - [Livros em Inglês](#livros-em-ingl%C3%AAs)
 - [Outros](#outros)
+  - [Listas](#listas)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -133,8 +134,12 @@ Para gerar o índice, instale e execute o programa [doctoc](https://github.com/t
 
 ### Livros em Inglês
 
-- [Blockchain in Action (2020)](https://cse.buffalo.edu/faculty/bina/) - Autora: [Bina Ramamurthy](https://cse.buffalo.edu/faculty/bina/)
+- [Blockchain in Action (2020)](https://www.manning.com/books/blockchain-in-action) - Autora: [Bina Ramamurthy](https://cse.buffalo.edu/faculty/bina/)
 
 ------
 
 ## Outros
+
+### Listas
+
+- [Awesome Cursos Blockchain](https://github.com/gp-alode/awesome-cursos-blockchain) - Lista mantida pelo Prof. Igor Machado Coelho e colegas da comunidade brasileira de blockchain, em especial, do [CT-Blockchain](https://wiki.rnp.br/display/blockchain/CT-Blockchain).
