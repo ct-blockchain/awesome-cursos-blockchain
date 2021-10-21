@@ -128,6 +128,10 @@ Para gerar o índice, instale e execute o programa [doctoc](https://github.com/t
 ### Instituto Federal do Rio de Janeiro - Campus Arraial do Cabo
 - [Blockchain e os Generais Bizantinos - 18/12/2020](https://www.youtube.com/watch?v=8C1uaQAAuQY) - Palestrante: Igor Machado Coelho (IC/UFF). Moderador: Marcos Guerine (IFRJ)
 
+### Semana da Computação - Universidade Federal Fluminense
+
+- [Non-Fungible Tokens - 07/10/2021](https://m.youtube.com/watch?v=EFMCv3qSw0c&t=40s) - Palestrante: Paulo Mann (Aluno IC/UFF). Moderador: Marcos Lage (IC/UFF)
+
 ------
 
 ## Livros
