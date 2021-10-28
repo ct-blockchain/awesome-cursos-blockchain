@@ -84,7 +84,7 @@ Para gerar o índice, instale e execute o programa [doctoc](https://github.com/t
 
 ### Gerações
 
-### Contratos Inteligentes e dApps 
+### Contratos Inteligentes e dApps
 
 ### Aplicações
 
@@ -139,6 +139,7 @@ Para gerar o índice, instale e execute o programa [doctoc](https://github.com/t
 ### Livros em Inglês
 
 - [Blockchain in Action (2020)](https://www.manning.com/books/blockchain-in-action) - Autora: [Bina Ramamurthy](https://cse.buffalo.edu/faculty/bina/)
+- [Beginning Blockchain: A Beginner's guide to building Blockchain solutions (2018)](https://link.springer.com/book/10.1007/978-1-4842-3444-0) - Autores: Singhal, Bikramaditya, Gautam Dhameja, and Priyansu Sekhar Panda. Editora Apress.
 
 ------
 
