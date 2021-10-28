@@ -147,4 +147,5 @@ Para gerar o índice, instale e execute o programa [doctoc](https://github.com/t
 
 ### Listas
 
-- [Awesome Cursos Blockchain](https://github.com/gp-alode/awesome-cursos-blockchain) - Lista mantida pelo Prof. Igor Machado Coelho e colegas da comunidade brasileira de blockchain, em especial, do [CT-Blockchain](https://wiki.rnp.br/display/blockchain/CT-Blockchain).
+- [Awesome Cursos Blockchain (pt-br)](https://github.com/gp-alode/awesome-cursos-blockchain) - Lista mantida pelo Prof. Igor Machado Coelho e colegas da comunidade brasileira de blockchain, em especial, do [CT-Blockchain](https://wiki.rnp.br/display/blockchain/CT-Blockchain).
+- [Awesome Blockchain (en)](https://github.com/yjjnls/awesome-blockchain) - Lista de tópicos e tecnologias gerais no escopo de blockchain.
