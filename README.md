@@ -27,6 +27,7 @@ Para gerar o índice, instale e execute o programa [doctoc](https://github.com/t
 - [Cursos Completos em Playlists](#cursos-completos-em-playlists)
 - [Vídeos por Curso em Playlist](#v%C3%ADdeos-por-curso-em-playlist)
   - [Introdução ao Blockchain e Aplicações Descentralizadas](#introdu%C3%A7%C3%A3o-ao-blockchain-e-aplica%C3%A7%C3%B5es-descentralizadas)
+  - [Introdução a Neo Blockchain](#introdu%C3%A7%C3%A3o-a-neo-blockchain)
 - [Vídeos por Tópico da Ementa de Referência](#v%C3%ADdeos-por-t%C3%B3pico-da-ementa-de-refer%C3%AAncia)
   - [Visão histórica](#vis%C3%A3o-hist%C3%B3rica)
   - [Fundamentos](#fundamentos)
@@ -38,6 +39,7 @@ Para gerar o índice, instale e execute o programa [doctoc](https://github.com/t
 - [Vídeos por Outros Tópicos](#v%C3%ADdeos-por-outros-t%C3%B3picos)
   - [Bitcoin](#bitcoin)
   - [Ethereum](#ethereum)
+  - [Neo](#neo)
 - [Palestras e Webinars Abertos](#palestras-e-webinars-abertos)
   - [Webinars da Escola Superior de Redes (ESR) da Rede Nacional de Ensino e Pesquisa (RNP)](#webinars-da-escola-superior-de-redes-esr-da-rede-nacional-de-ensino-e-pesquisa-rnp)
   - [Seminários do Instituto de Computação (IC) da Universidade Federal Fluminense (UFF)](#semin%C3%A1rios-do-instituto-de-computa%C3%A7%C3%A3o-ic-da-universidade-federal-fluminense-uff)
@@ -45,6 +47,7 @@ Para gerar o índice, instale e execute o programa [doctoc](https://github.com/t
   - [Comitê Técnico em Blockchain (CT-Blockchain) da Rede Nacional de Ensino e Pesquisa (RNP)](#comit%C3%AA-t%C3%A9cnico-em-blockchain-ct-blockchain-da-rede-nacional-de-ensino-e-pesquisa-rnp)
 - [Apresentações em Eventos com Transmissão Aberta](#apresenta%C3%A7%C3%B5es-em-eventos-com-transmiss%C3%A3o-aberta)
   - [Instituto Federal do Rio de Janeiro - Campus Arraial do Cabo](#instituto-federal-do-rio-de-janeiro---campus-arraial-do-cabo)
+  - [Semana da Computação - Universidade Federal Fluminense](#semana-da-computa%C3%A7%C3%A3o---universidade-federal-fluminense)
 - [Livros](#livros)
   - [Livros em Inglês](#livros-em-ingl%C3%AAs)
 - [Outros](#outros)
@@ -59,6 +62,7 @@ Para gerar o índice, instale e execute o programa [doctoc](https://github.com/t
 ## Cursos Completos em Playlists
 
 - [Introdução ao Blockchain e Aplicações Descentralizadas](https://www.youtube.com/playlist?list=PLijZucELEeonj-V_lLq_cKW0rjtPty1Yg) - Curso com mais de 20 vídeos do Prof. Diogo Silveira Mendonça, do CEFET/RJ, com foco especial na tecnologia Ethereum.
+- [Introdução a Neo Blockchain](https://www.youtube.com/playlist?list=PLWiiA_CLle92Nnx9n3lo4ASoS-qxYO_TZ) - Curso com vídeos do Prof. Igor Machado Coelho (IC/UFF), com foco na tecnologia Neo. Situação: em andamento.
 
 ------
 
@@ -67,6 +71,12 @@ Para gerar o índice, instale e execute o programa [doctoc](https://github.com/t
 ### Introdução ao Blockchain e Aplicações Descentralizadas
 
 - [Aula 01 Introdução ao Blockchain e Aplicações Descentralizadas](https://www.youtube.com/watch?v=UbySEqPkZiY&list=PLijZucELEeonj-V_lLq_cKW0rjtPty1Yg&index=2) - Aula 01 por Diogo Silveira Mendonça: "Apresento conceitos iniciais sobre blockchain e aplicações descentralizadas na primeira aula do curso".
+
+### Introdução a Neo Blockchain
+
+- [Vídeo 03 Carteiras](https://www.youtube.com/watch?v=WohZj7Zax4k&list=PLWiiA_CLle92Nnx9n3lo4ASoS-qxYO_TZ&index=1) - Vídeo 03 por Igor Machado Coelho: "Explora o conceito de carteiras para a Neo Blockchain e apresenta três carteiras/wallets diferentes: Neon Wallet, O3 Wallet e NeoLine".
+
+- [Vídeo 04 Iniciando Plataforma NeoCompiler Eco para Neo Legacy](https://www.youtube.com/watch?v=TxJT8QTErJQ&list=PLWiiA_CLle92Nnx9n3lo4ASoS-qxYO_TZ&index=2) - Vídeo 04 por Igor Machado Coelho: "Nesta aula mostramos brevemente como subir a plataforma NeoCompiler Eco para Neo v2 Legacy localmente em um computador com GNU/Linux (Ubuntu 20.04 no exemplo) e com tecnologia Docker".
 
 ------
 
@@ -100,6 +110,12 @@ Para gerar o índice, instale e execute o programa [doctoc](https://github.com/t
 ### Ethereum
 
 - [Aula 01 Introdução ao Blockchain e Aplicações Descentralizadas](https://www.youtube.com/watch?v=UbySEqPkZiY&list=PLijZucELEeonj-V_lLq_cKW0rjtPty1Yg&index=2).
+
+
+### Neo
+
+- [Vídeo 03 Carteiras](https://www.youtube.com/watch?v=WohZj7Zax4k&list=PLWiiA_CLle92Nnx9n3lo4ASoS-qxYO_TZ&index=1).
+
 
 ------
 
