@@ -76,7 +76,18 @@ Para gerar o índice, instale e execute o programa [doctoc](https://github.com/t
 
 - [Vídeo 03 Carteiras](https://www.youtube.com/watch?v=WohZj7Zax4k&list=PLWiiA_CLle92Nnx9n3lo4ASoS-qxYO_TZ&index=1) - Vídeo 03 por Igor Machado Coelho: "Explora o conceito de carteiras para a Neo Blockchain e apresenta três carteiras/wallets diferentes: Neon Wallet, O3 Wallet e NeoLine".
 
-- [Vídeo 04 Iniciando Plataforma NeoCompiler Eco para Neo Legacy](https://www.youtube.com/watch?v=TxJT8QTErJQ&list=PLWiiA_CLle92Nnx9n3lo4ASoS-qxYO_TZ&index=2) - Vídeo 04 por Igor Machado Coelho: "Nesta aula mostramos brevemente como subir a plataforma NeoCompiler Eco para Neo v2 Legacy localmente em um computador com GNU/Linux (Ubuntu 20.04 no exemplo) e com tecnologia Docker".
+- [Vídeo 04 Iniciando Plataforma NeoCompiler Eco (Neo v2 Legacy)](https://www.youtube.com/watch?v=TxJT8QTErJQ&list=PLWiiA_CLle92Nnx9n3lo4ASoS-qxYO_TZ&index=2) - Vídeo 04 por Igor Machado Coelho: "Nesta aula mostramos brevemente como subir a plataforma NeoCompiler Eco para Neo v2 Legacy localmente em um computador com GNU/Linux (Ubuntu 20.04 no exemplo) e com tecnologia Docker".
+
+- [Vídeo 05 Hello World (Neo v2 Legacy)](https://www.youtube.com/watch?v=Y9SYw65E6Io&list=PLWiiA_CLle92Nnx9n3lo4ASoS-qxYO_TZ) - Vídeo 05 por Igor Machado Coelho
+
+- [Vídeo 06 Contrato de Verificação de Testemunhas (Neo v2 Legacy)](https://www.youtube.com/watch?v=yqqbrKKMaro&list=PLWiiA_CLle92Nnx9n3lo4ASoS-qxYO_TZ) - Vídeo 06 por Igor Machado Coelho
+
+- [Vídeo 07 Contrato com Parâmetros e Conversão de Tipos (Neo v2 Legacy)](https://www.youtube.com/watch?v=i_oHXicoH6I&list=PLWiiA_CLle92Nnx9n3lo4ASoS-qxYO_TZ) - Vídeo 07 por Igor Machado Coelho
+
+- [Vídeo 08 Contrato de Tokens Fungíveis NEP-5 (Neo v2 Legacy)](https://www.youtube.com/watch?v=HJJrm5YW7co&list=PLWiiA_CLle92Nnx9n3lo4ASoS-qxYO_TZ) - Vídeo 08 por Igor Machado Coelho
+
+- [Vídeo 09 Contrato Inteligente Cara ou Coroa (Neo v2 Legacy)](https://www.youtube.com/watch?v=2ds3FjvfaGk&list=PLWiiA_CLle92Nnx9n3lo4ASoS-qxYO_TZ) - Vídeo 09 por Igor Machado Coelho
+
 
 ------
 
